@@ -8,8 +8,7 @@ I'm a CS student at UT Dallas, and I'm looking for a software engineering intern
 
 ## Current Work
 
-**Frontend Developer, Inno Labs (Cooper)** | private repo
-
+**Frontend Developer, Inno Labs ([cooper-hq](https://github.com/cooper-hq))** | private repo
 Cooper is an adaptive personal planning app built with React, TypeScript, Tauri and FastAPI.
 
 - **Text capture:** Built desktop and web capture so signed-in users can save typed text to their account without it being read as a task or schedule. Every capture carries a single Idempotency-Key with explicit 409 handling, so retries are safe, and drafts survive an app restart without resubmitting. Shipped with 209 unit/component tests, 11 Chromium end-to-end journeys and real-backend integration tests.
