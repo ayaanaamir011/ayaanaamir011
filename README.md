@@ -2,20 +2,18 @@
 
 **Computer Science @ UT Dallas** (B.S., expected May 2028) | **Frontend Developer @ Inno Labs**
 
-I build web and AI applications with Python, TypeScript and React. Right now I'm shipping features for Cooper, an adaptive personal planning app, on desktop and web.
+I'm a CS student at UT Dallas, and I'm looking for a software engineering internship for Summer 2027. I like building web and AI apps that solve a real problem, mostly with Python, TypeScript and React. Outside of class, I'm involved with the Artificial Intelligence Society and Noor Al Yateem.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayaanaamir11-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayaanaamir11)
-
----
 
 ## Current Work
 
 **Frontend Developer, Inno Labs (Cooper)** | private repo
 
-- Text capture for desktop and web, with idempotent retries and drafts that survive restarts (FE-05)
-- Goals: create, edit, complete and reopen goals, with optional dates (FE-08)
+Cooper is an adaptive personal planning app built with React, TypeScript, Tauri and FastAPI.
 
----
+- **Text capture:** Built desktop and web capture so signed-in users can save typed text to their account without it being read as a task or schedule. Every capture carries a single Idempotency-Key with explicit 409 handling, so retries are safe, and drafts survive an app restart without resubmitting. Shipped with 209 unit/component tests, 11 Chromium end-to-end journeys and real-backend integration tests.
+- **Goals:** Built goal management for desktop and web, so signed-in users can create, edit, complete and reopen their own goals, with optional dates. The pull request was merged to main after all CI checks passed and the reviewer bot returned no findings.
 
 ## Projects
 
@@ -27,9 +25,9 @@ Intent-driven legacy codebase modernization tool, built with Next.js and FastAPI
 
 What I built (merged pull requests):
 
-- [#1](https://github.com/goofyxgoober/Intent-hackutd26/pull/1): GitHub Auth Login
-- [#2](https://github.com/goofyxgoober/Intent-hackutd26/pull/2): Login polling, commit history, the intent store on the engine spec, and 2FA errors
-- [#3](https://github.com/goofyxgoober/Intent-hackutd26/pull/3): Restored 2FA messages, error codes and flag.raised in my-app
+- [#1](https://github.com/goofyxgoober/Intent-hackutd26/pull/1): GitHub authentication login
+- [#2](https://github.com/goofyxgoober/Intent-hackutd26/pull/2): Polling, commit history, an intent store on the engine spec, and 2FA error handling
+- [#3](https://github.com/goofyxgoober/Intent-hackutd26/pull/3): Restored 2FA messages and error codes
 
 ### Inside Track | Python
 
@@ -44,8 +42,6 @@ Referral-first internship tool. [Repo](https://github.com/ayaanaamir011/Inside-T
 
 Real estate intelligence app with ML-based house price estimation. [Repo](https://github.com/AI-Mentorship-S26/futurekey)
 -->
-
----
 
 ## Skills
 
@@ -64,11 +60,8 @@ Real estate intelligence app with ML-based house price estimation. [Repo](https:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
 ## Involvement
 
 - Industry Officer, Artificial Intelligence Society (AIS) @ UT Dallas
-- Treasurer/Secretary, Cougar Robotics Club
 - Fundraising Coordinator, Noor Al Yateem: team has raised $10,000 to sponsor orphans in Pakistan, India, Palestine and Sudan
 - Eagle Scout, Senior Patrol Leader, three-time National Youth Leadership Training (NYLT) staffer
