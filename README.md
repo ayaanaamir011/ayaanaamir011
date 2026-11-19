@@ -61,6 +61,6 @@ Real estate intelligence app with ML-based house price estimation. [Repo](https:
 
 ## Involvement
 
-- Industry Officer, Artificial Intelligence Society (AIS) @ UT Dallas
+- Innovation Labs Officer, Artificial Intelligence Society (AIS) @ UT Dallas
 - Fundraising Coordinator, Noor Al Yateem: team has raised $10,000 to sponsor orphans in Pakistan, India, Palestine and Sudan
 - Eagle Scout, Senior Patrol Leader, three-time National Youth Leadership Training (NYLT) staffer
